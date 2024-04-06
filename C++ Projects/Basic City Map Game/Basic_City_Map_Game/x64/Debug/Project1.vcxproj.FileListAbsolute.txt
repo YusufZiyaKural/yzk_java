@@ -1,0 +1,5 @@
+C:\Users\DRetr\source\repos\Project1\x64\Debug\TheBiggerProject.exe
+C:\Users\DRetr\source\repos\TheBiggerProject\x64\Debug\TheBiggerProject.exe
+C:\Users\DRetr\source\repos\TheBiggerProject\TheBiggerProject\x64\Debug\TheBiggerProject.exe
+C:\Users\Yusuf\Desktop\TheBiggerProject\TheBiggerProject\x64\Debug\TheBiggerProject.exe
+C:\Users\Yusuf\Desktop\Cpp\TheBiggerProject\TheBiggerProject\x64\Debug\TheBiggerProject.exe
